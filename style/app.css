@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+.croissant-img {
+  display: block;
+  margin: 10px auto;
+  width: 600px;
+  border: 2px solid goldenrod;
+  border-radius: 10px;
+}
+.links a {
+  margin-right: 15px;
+}
